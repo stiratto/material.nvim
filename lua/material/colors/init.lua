@@ -67,7 +67,7 @@ if vim.g.material_style == "darker" then
     colors.editor.border    = "#343434"
     colors.editor.highlight = "#3F3F3F"
     colors.editor.disabled  = "#474747"
-    colors.editor.accent    = "#9192bb"
+    colors.editor.accent    = "#ffffff"
 
 
 elseif vim.g.material_style == "lighter" then
