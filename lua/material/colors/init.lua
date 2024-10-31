@@ -29,7 +29,7 @@ local colors = {
     ---colors applied to the editor
     editor = {
         link   = "#80CBC4",
-        cursor = "#FFCC00",
+        cursor = "#80CBC4",
         title  = "#EEFFFF",
     },
 
@@ -67,7 +67,7 @@ if vim.g.material_style == "darker" then
     colors.editor.border    = "#343434"
     colors.editor.highlight = "#3F3F3F"
     colors.editor.disabled  = "#474747"
-    colors.editor.accent    = "#FF9800"
+    colors.editor.accent    = "#9192bb"
 
 
 elseif vim.g.material_style == "lighter" then
